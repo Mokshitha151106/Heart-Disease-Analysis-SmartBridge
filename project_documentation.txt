@@ -1,0 +1,21 @@
+Project Documentation – Heart Disease Analysis
+
+1. Problem Statement: Heart disease is a leading cause of death worldwide. This project uses Tableau to identify key risk factors such as smoking, BMI, age, and gender.
+
+2. Data Source: Heart_new2.csv (4500 records, 18 fields)
+
+3. Tools Used: Tableau Public, SQLite
+
+4. Visualizations Created: 10 charts (Gender, Age, Smoking, BMI, Diabetes, Physical Activity, Alcohol, Stroke, Mental Health, General Health)
+
+5. Dashboard: Interactive dashboard with filters for Age, Gender, and Smoking.
+
+6. Story: 4 scenes – Introduction, Key Risk Factors, Demographic Insights, Conclusion.
+
+7. Key Insights:
+   - Smoking and high BMI are major risk factors.
+   - Older age groups (55-69) show higher heart disease rates.
+   - Men show higher rates than women.
+   - Poor general health is strongly associated with heart disease.
+
+8. Recommendations: Stop smoking, maintain healthy weight, exercise regularly, and get regular health checkups.
